@@ -21,7 +21,7 @@
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
-  --white: #fff;
+  --white: #1e1e1e;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #fed136;
@@ -30,7 +30,7 @@
   --info: #17a2b8;
   --warning: #fed136;
   --danger: #dc3545;
-  --light: #f8f9fa;
+  --light: #1e1e1e;
   --dark: #343a40;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
