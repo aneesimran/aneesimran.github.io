@@ -21,7 +21,7 @@
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
-  --white: #1e1e1e;
+  --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #fed136;
@@ -30,7 +30,7 @@
   --info: #17a2b8;
   --warning: #fed136;
   --danger: #dc3545;
-  --light: #1e1e1e;
+  --light: #f8f9fa;
   --dark: #343a40;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #1e1e1e !important;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
